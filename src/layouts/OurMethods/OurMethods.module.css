@@ -1,0 +1,9 @@
+.methods {
+  padding: 90px 0 50px;
+}
+
+@media (max-width: 768px) {
+  .methodsImg {
+    text-align: center;
+  }
+}

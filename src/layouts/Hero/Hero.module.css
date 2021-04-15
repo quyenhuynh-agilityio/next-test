@@ -1,0 +1,57 @@
+.hero {
+  position: relative;
+}
+
+.header {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  padding: 0 50px;
+  display: flex;
+  justify-content: center;
+}
+.title {
+  position: absolute;
+  bottom: 50px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+@media (max-width: 996px) {
+  .title {
+    position: inherit;
+  }
+}
+
+@media (max-width: 650px) {
+  .header {
+    top: 0;
+  }
+
+  .logo {
+    padding-top: 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .header {
+    top: 0;
+    bottom: 20px;
+  }
+
+  .logo {
+    max-height: 40px;
+  }
+
+  .nav {
+    padding-top: 15px;
+  }
+}

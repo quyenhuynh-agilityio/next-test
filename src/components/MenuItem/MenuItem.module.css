@@ -1,0 +1,19 @@
+.menuTitle {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.menuPrice {
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.menuText {
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.menuContent {
+  padding-bottom: 20px;
+}

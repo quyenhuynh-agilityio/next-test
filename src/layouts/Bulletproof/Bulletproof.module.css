@@ -1,0 +1,30 @@
+.bulletproof {
+  padding: 75px 40px 50px 40px;
+}
+
+.img {
+  text-align: right;
+}
+
+.bulletproofContent {
+  padding-top: 25px;
+  line-height: 26px;
+  font-size: 15px;
+}
+
+.bulletproofComment {
+  text-align: center;
+  margin-top: 20px;
+  color: #000;
+  font-size: 12px;
+}
+
+@media (max-width: 767px) {
+  .bulletproof {
+    padding: 75px 0 50px;
+  }
+
+  .img {
+    text-align: center;
+  }
+}

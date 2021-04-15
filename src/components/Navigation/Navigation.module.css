@@ -1,0 +1,29 @@
+.navbar {
+  padding-top: 30px;
+}
+
+.navItem a {
+  margin: 50px;
+  padding-left: 0;
+  font-family: "PT Sans", sans-serif;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 20px;
+}
+
+.navItem a:active {
+  color: orange;
+}
+
+.navbarBrand {
+  font-weight: bold;
+  font-family: "PT Sans", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  justify-content: center;
+}

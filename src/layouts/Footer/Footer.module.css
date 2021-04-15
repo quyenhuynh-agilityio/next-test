@@ -1,0 +1,40 @@
+.footer {
+  background-color: #efe6da;
+  padding: 50px 0 0;
+}
+
+.title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 24px;
+  border-bottom: solid 1px #dad1c2;
+  margin-bottom: 20px;
+}
+
+.widget {
+  margin-bottom: 20px;
+}
+
+.widgetContent {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.widgetLink a {
+  text-decoration: none;
+  color: #5c5c68;
+}
+
+.copyright {
+  background-color: #efe6da;
+  text-align: center;
+  border-top: solid 1px #dad1c2;
+}
+
+.copyrightText {
+  padding: 20px 0;
+}
+
+@media (max-width: 767px) {
+}

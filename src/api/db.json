@@ -1,0 +1,651 @@
+{
+  "news-list": [
+    {
+      "id": "1",
+      "image": {
+        "src": "/images/news/newsAcoustic.jpeg",
+        "alt": "news acoustic"
+      },
+      "title": "Chương trình ca nhạc acoustic hằng đêm.",
+      "description": "Từ 7:00pm mỗi ngày, sẽ có chương trình ca nhạc acoustic hằng đêm. Chương trình hoàn toàn miễn phí, không tính phí phụ thu. Do không thu phí, chương trình sẽ sắp xếp chỗ ngồi và phục vụ cho khách hàng đến trước.",
+      "quote": "Cán mốc hơn 3.000 ly cà phê, quán tri ân khách hàng, nhằm cảm hơn quý khách hàng đã ủng hộ và đồng hành suốt thời gian qua. Hy vọng trong thời gian tới quán vẫn được ở sát cánh cùng các bạn.Mua 2 tặng 1 áp dụng với Cà phê đen, cà phê sữa, kể cả mang về.",
+      "date": "27 / tháng 4",
+      "note": "Post by mTheme / Coffee / 7 comments"
+    },
+    {
+      "id": "2",
+      "image": {
+        "src": "/images/news/newsMemory.jpeg",
+        "alt": "news memory"
+      },
+      "title": "Kỷ niệm ngày lễ 30/4 và 1/5",
+      "description": "Từ ngày 27/4 đến ngày 1/5/2021 khách hàng đến mua trực tiếp ở của hàng sẽ nhận được được ưu đãi sau: hóa đơn trên 100K sẽ được tặng một ly sứ  ",
+      "quote": "Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor nequeu tellus ut eleifend nibh porttitor. Ut in nulla enim hasell moytrirolestie magna lorem ipsum dolor site amet retituros est bibendum anon venenatis lectus vestibulum faucibus eget in metus.",
+      "date": "27 / tháng 4",
+      "note": "Post by mTheme / Coffee / 7 comments"
+    },
+    {
+      "id": "3",
+      "image": {
+        "src": "/images/news/newsDelivery.jpeg",
+        "alt": "news delivery"
+      },
+      "title": "[coffee shop] chính thức có mặt trên Now Delivery",
+      "description": "Chính thức liên kết với Now Delivery với mong muốn tối ưu trải nghiệm người dùng. Bạn hãy tải app Now Delivery trên App Store hoặc CH play và tìm kiếm [Tên Quán] trên app và có thể thưởng thức những món ngon của quán ở mọi nơi.   ",
+      "quote": "Với Now Delivery, quý khách có thể nhận được những ưu đãi, voucher để được tiết kiệm tối đa mà vẫn có thể tận hưởng hương vị  của quán mọi lúc, mọi nơi. ",
+      "date": "05 / tháng 5",
+      "note": "Post by mTheme / Coffee / 7 comments"
+    },
+    {
+      "id": "4",
+      "image": {
+        "src": "/images/news/newsCalender.jpeg",
+        "alt": "news calender"
+      },
+      "title": "[cofee shop] gửi bạn lịch hoạt động mới nhất",
+      "description": "Vì sức khoẻ của bạn và cộng đồng là ưu tiên hàng đầu của [Tên quán] và vì cuộc hẹn cà phê thật rôm rả vào 1 ngày không xa của chúng ta, [Tên quán] sẽ nghiêm túc thực hiện theo chỉ thị của cơ quan chức năng về công tác phòng chống dịch bệnh Covid-19, cụ thể sẽ điều chỉnh lịch hoạt động cửa hàng như sau: ",
+      "quote": "Giờ hoạt động",
+      "date": "05 / tháng 1",
+      "note": "Post by mTheme / Coffee / 7 comments"
+    }
+  
+  ],
+  "news-events": [
+    {
+      "src": "/images/background/bgNew.jpg",
+      "title": "Tin tức và sự kiện"
+    },
+    {
+      "navigationData": [
+        {
+          "id": 1,
+          "label": "Trang chủ",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "label": "Về chúng tôi",
+          "href": "/about"
+        },
+        {
+          "id": 3,
+          "label": "Thực đơn",
+          "href": "/menu"
+        },
+        {
+          "id": 4,
+          "label": "Tin tức và sự kiện",
+          "href": "/news"
+        }
+      ]
+    },
+    {
+      "footerData": [
+        {
+          "title": "Về chúng tôi",
+          "items": [
+            {
+              "text": "“Dù có phải xới tung trái đất này lên cũng phải làm để tạo ra những tuyệt phẩm cà phê năng lượng ngon nhất”."
+            },
+            {
+              "text": "cofeeshop@gmail.com"
+            },
+            {
+              "text": "+(84)123456789"
+            },
+            {
+              "text": "Đà Nẵng, Việt Nam"
+            }
+          ]
+        },
+        {
+          "title": "Thời gian hoạt động",
+          "items": [
+            {
+              "text": "Thứ hai - thứ năm: 8 giờ sáng - 5 giờ chiều"
+            },
+            {
+              "text": "Thứ bảy - Chủ nhật: 8 giờ sáng - 7 giờ chiều"
+            },
+            {
+              "text": "Ngày lễ: Đóng cửa"
+            }
+          ]
+        },
+        {
+          "title": "Theo dõi chúng tôi",
+          "items": [
+            {
+              "text": "Theo dõi chúng tôi tại Website này và thường xuyên cập nhật những thông tin mới nhất của của hàng bạn nhé !"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "menu": [
+    {
+      "src": "/images/background/bgMenu.jpg",
+      "title": "Thực đơn"
+    },
+    {
+      "navigationData": [
+        {
+          "id": 1,
+          "label": "Trang chủ",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "label": "Về chúng tôi",
+          "href": "/about"
+        },
+        {
+          "id": 3,
+          "label": "Thực đơn",
+          "href": "/menu"
+        },
+        {
+          "id": 4,
+          "label": "Tin tức và sự kiện",
+          "href": "/news"
+        }
+      ]
+    },
+    {
+      "menuData": [
+        {
+          "id": "0",
+          "category": "Cà phê",
+          "image": {
+            "src": "/images/menu/menuCoffee.png",
+            "alt": "image category 1"
+          },
+          "items": [
+            {
+              "name": "Cà phê đen phin ( nóng / đá )",
+              "price": "15,000 Đ",
+              "description": "Giữa dòng đời vồn vã, một tách cà phê trầm lắng, một chút đắng của cuộc sống, pha lẫn chút ngọt của yêu đời làm cho cuộc sống thêm nhiều hương vị. "
+            },
+
+            {
+              "name": "Cà phê sữa phin ( nóng / đá )",
+              "price": "20,000 Đ",
+              "description": "Sự kết hợp giữa cà phê phin và sữa là một lựa chọn tuyệt vời cho những người muốn chìm đắm trong sự ngọt ngào. Là thức uống thương hiệu của người Việt Nam."
+            },
+            {
+              "name": "Cà phê đen pha máy ( nóng / đá )",
+              "price": "15,000 Đ",
+              "description": " Hạt cà phê xay trực tiếp từ trong máy, cùng với bàn tay điêu luyện, công thức tỉ mỉ của người pha cà phê đã tạo nên một ly cà phê vô cùng thơm ngon."
+            },
+            {
+              "name": "Cà phê sữa pha máy ( nóng / đá )",
+              "price": "20,000 Đ",
+              "description": " Hạt cà phê xay trực tiếp từ trong máy, cùng với bàn tay điêu luyện, công thức tỉ mỉ của người pha cà phê đã tạo nên một ly cà phê vô cùng thơm ngon."
+            },
+            {
+              "name": "Cà phê đen sài gòn",
+              "price": "25,000 Đ",
+              "description": "Ly cà phê đen đá Sài Gòn từ lâu đã không chỉ đặc trưng bởi hương vị, mà còn bởi chất con người, chất cuộc sống Sài thành thấm dần vào hương vị ấy. "
+            },
+            {
+              "name": "Cà phê sữa sài gòn",
+              "price": "30,000 Đ",
+              "description": "Ly cà phê sữa đá Sài Gòn từ lâu đã không chỉ đặc trưng bởi hương vị, mà còn bởi chất con người, chất cuộc sống Sài thành thấm dần vào hương vị ấy. "
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "category": "Nước ép",
+          "image": {
+            "src": "/images/menu/menuFruit.png",
+            "alt": "image category 4"
+          },
+          "items": [
+            {
+              "name": "Thơm, dâu tây, cà chua, cà rốt, cóc, chanh dây",
+              "price": "20,000 Đ",
+              "description": "Nước ép có thể tăng cường sức đề kháng do chứa nhiều chất diệp hồng tố (Lycopene) của cà rốt, cà chua và vitamin C của chanh."
+            },
+            {
+              "name": "Cà chua + cà rốt",
+              "price": "20,000 Đ",
+              "description": "Sự kết hợp có thể giúp tăng cường sức đề kháng do chứa nhiều chất diệp hồng tố (Lycopene) của cà rốt, cà chua; giúp sáng mắt và làn da thêm tươi sáng. "
+            },
+            {
+              "name": "Nước cam",
+              "price": "30,000 Đ",
+              "description": "Nước cam là thức uống được nhiều người yêu thích trên khắp thế giới với nhiều chất dinh dưỡng tự nhiên quan trọng, chẳng hạn như vitamin C và kali."
+            },
+            {
+              "name": "nước chanh ( nóng / đá )",
+              "price": "20,000 Đ",
+              "description": "Nước chanh chắc chắn là một nước giải khát ngon miệng, nhưng bên cạnh đó lợi ích của nước chanh cũng rất được đánh giá cao, giảm cân, cải thiện hệ tiêu hóa, "
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "category": "Trà",
+          "image": {
+            "src": "/images/menu/imgTea.jpg",
+            "alt": "image category 2"
+          },
+          "items": [
+            {
+              "name": "Trà gừng",
+              "price": "20,000 Đ",
+              "description": "Uống trà không đơn giản chỉ là một thói quen thường ngày trong những lúc thư giãn, rảnh rỗi. "
+            },
+            {
+              "name": "Trà lipton",
+              "price": "20,000 Đ",
+              "description": "Uống trà không đơn giản chỉ là một thói quen thường ngày trong những lúc thư giãn, rảnh rỗi. "
+            },
+            {
+              "name": "Trà lipton sữa",
+              "price": "25,000 Đ",
+              "description": "Uống trà không đơn giản chỉ là một thói quen thường ngày trong những lúc thư giãn, rảnh rỗi. "
+            },
+            {
+              "name": "Trà chanh",
+              "price": "18,000 Đ",
+              "description": "Uống trà không đơn giản chỉ là một thói quen thường ngày trong những lúc thư giãn, rảnh rỗi. "
+            },
+            {
+              "name": "Trà đào",
+              "price": "30,000 Đ",
+              "description": "Uống trà không đơn giản chỉ là một thói quen thường ngày trong những lúc thư giãn, rảnh rỗi. "
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "category": "Các loại thức uống khác",
+          "image": {
+            "src": "/images/menu/menuFruit.png",
+            "alt": "image drink"
+          },
+          "items": [
+            {
+              "name": "Cacao ( nóng / đá )",
+              "price": "20,000 Đ"
+            },
+            {
+              "name": "Sữa chua đá",
+              "price": "20,000 Đ"
+            },
+            {
+              "name": "Sữa chua dâu tây",
+              "price": "25,000 Đ"
+            },
+            {
+              "name": "Coca, pepsi, bò húc",
+              "price": "15,000 Đ"
+            },
+            {
+              "name": "Nutri, revive",
+              "price": "18,000 Đ"
+            },
+            {
+              "name": "Aquafina",
+              "price": "10,000 Đ"
+            },
+            {
+              "name": "Nước khoáng ( lạt / ngọt )",
+              "price": "12,000 Đ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "footerData": [
+        {
+          "title": "Về chúng tôi",
+          "items": [
+            {
+              "text": "“Dù có phải xới tung trái đất này lên cũng phải làm để tạo ra những tuyệt phẩm cà phê năng lượng ngon nhất”."
+            },
+            {
+              "text": "cofeeshop@gmail.com"
+            },
+            {
+              "text": "+(84)123456789"
+            },
+            {
+              "text": "Đà Nẵng, Việt Nam"
+            }
+          ]
+        },
+        {
+          "title": "Thời gian hoạt động",
+          "items": [
+            {
+              "text": "Thứ hai - thứ năm: 8 giờ sáng - 5 giờ chiều"
+            },
+            {
+              "text": "Thứ bảy - Chủ nhật: 8 giờ sáng - 7 giờ chiều"
+            },
+            {
+              "text": "Ngày lễ: Đóng cửa"
+            }
+          ]
+        },
+        {
+          "title": "Theo dõi chúng tôi",
+          "items": [
+            {
+              "text": "Theo dõi chúng tôi tại Website này và thường xuyên cập nhật những thông tin mới nhất của của hàng bạn nhé !"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "about": [
+    {
+      "src": "/images/background/bgAbout.jpg",
+      "title": "Về chúng tôi"
+    },
+    {
+      "navigationData": [
+        {
+          "id": 1,
+          "label": "Trang chủ",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "label": "Về chúng tôi",
+          "href": "/about"
+        },
+        {
+          "id": 3,
+          "label": "Thực đơn",
+          "href": "/menu"
+        },
+        {
+          "id": 4,
+          "label": "Tin tức và sự kiện",
+          "href": "/news"
+        }
+      ]
+    },
+    {
+      "title": "chào mừng bạn đến với cửa hàng của chúng tôi",
+      "text": "Giữa cuộc sống đầy bộn bề lo toan, bạn vội vã hòa vào dòng người tấp nập, cuốn mình vào công việc bận rộn để rồi bạn chợt nhật ra đã bao lâu rồi bạn chưa dành thời gian cho bản thân nghỉ ngơi, thưởng thức một ly cà phê và lắng nghe âm nhạc, âm thanh của cuộc sống. Đến với cà phê chúng tôi bạn sẽ được hòa mình với thiên nhiên, chìm đắm trong tiếng nhạc du dương, tiếng chim lảnh lót và tiếng nước chảy róc rách.",
+      "comment": "Với mục tiêu Luôn đặt chữ tín lên hàng đầu và hướng tới quan hệ khách hàng dài lâu. Chúng tôi cam kết sẽ mang lại cho bạn những trải nghiệm tuyệt vời khi mua hàng",
+      "images": [
+        {
+          "src": "/images/background/infoUsBg.jpeg",
+          "alt": "bg"
+        },
+        {
+          "src": "/images/about/infoUs.png",
+          "alt": "bg"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/images/about/ourMission.png",
+        "alt": " our Mission"
+      },
+      "content": [
+        {
+          "title": "Nhiệm vụ của chúng tôi",
+          "text": "Chúng tôi tin tưởng chia sẻ những sãn phẩm hữu cơ chất lượng mà bạn có thể thoải mái thưởng thức.",
+          "comment": "Chúng tôi cố gắng nuôi dưỡng cơ thể của bạn và tôn trọng môi trường bằng cách chứng nhận mỗi sản phẩm của chúng tôi là hữu cơ và không chứa gluten, sử dụng các thành phần nguyên chất có nguồn gốc từ khắp nơi trên thế giới và luôn áp dụng các phương pháp bền vững, thân thiện với môi trường",
+          "subText": "Trong tất cả những việc chúng tôi làm, chúng tôi nhắm đến sự tốt nhất.",
+          "subComment": "Cho dù bạn dành riêng cho lối sống hữu cơ, lành mạnh, đang áp dụng chế độ ăn kiêng không chứa gluten hay thích sử dụng nhiều loại gia vị tươi ngon nhất và phong phú nhất trong các sáng tạo ẩm thực của mình, chúng tôi muốn bạn trao sự sáng tạo và sức khỏe của mình bằng các nguyên liệu hữu cơ chất lượng và giúp bạn cảm thấy hài lòng về lựa chọn của mình."
+        }
+      ]
+    },
+    {
+      "title": "cam kết của chúng tôi ",
+      "text": "Với mục tiêu Luôn đặt chữ tín lên hàng đầu và hướng tới quan hệ khách hàng dài lâu. Chúng tôi cam kết sử dụng 100% hạt cà phê nguyên chất, không pha lẫn những tạp chất khác và mang lại cho bạn những trải nghiệm tuyệt vời khi mua hàng. Chúng tôi sẽ làm việc chăm chỉ hơn để tao ra thêm nhiều thức uống được mọi người tin tưởng.",
+      "image": {
+        "src": "/images/home/latestCake.png",
+        "alt": "our promse"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/about/aboutFlickity.jpg",
+        "alt": "flickity"
+      }
+    },
+    {
+      "image": {
+        "src": "/images/about/ourMethods.png",
+        "alt": ""
+      },
+      "title": "các phương pháp của chúng tôi",
+      "text": "Cách pha cafe phin xuất hiện từ thế kỷ 19 người và là phương pháp phổ biến nhất hiện nay tại Việt Nam. Phương pháp này dựa trên nguyên tắc chung là nước nóng đi qua cà phê bột tạo ra nước cà phê. Bên cạnh đó chất lượng cà phê cũng vô cùng quan trọng. Chúng tôi chọn cà phê nguyên chất đảm bảo sức khoẻ và cho hương vị tuyệt hảo nhất.",
+      "comment": "Cà phê pha máy được pha trực tiếp từ loại máy pha cà phê espresso. Sở hữu thiết kế nhỏ gọn và đẹp mắt, không những thế còn được cài đặt tự động về áp suất nồi hơi, nhiệt độ nước, hàm lượng cà phê…nhờ đó mà cà phê sau khi được pha luôn đảm bảo về mặt chất lượng."
+    },
+    {
+      "footerData": [
+        {
+          "title": "Về chúng tôi",
+          "items": [
+            {
+              "text": "“Dù có phải xới tung trái đất này lên cũng phải làm để tạo ra những tuyệt phẩm cà phê năng lượng ngon nhất”."
+            },
+            {
+              "text": "cofeeshop@gmail.com"
+            },
+            {
+              "text": "+(84)123456789"
+            },
+            {
+              "text": "Đà Nẵng, Việt Nam"
+            }
+          ]
+        },
+        {
+          "title": "Thời gian hoạt động",
+          "items": [
+            {
+              "text": "Thứ hai - thứ năm: 8 giờ sáng - 5 giờ chiều"
+            },
+            {
+              "text": "Thứ bảy - Chủ nhật: 8 giờ sáng - 7 giờ chiều"
+            },
+            {
+              "text": "Ngày lễ: Đóng cửa"
+            }
+          ]
+        },
+        {
+          "title": "Theo dõi chúng tôi",
+          "items": [
+            {
+              "text": "Theo dõi chúng tôi tại Website này và thường xuyên cập nhật những thông tin mới nhất của của hàng bạn nhé !"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "home": [
+    {
+      "image": {
+        "url": "/logo.png",
+        "alt": " Coffee Shop Logo"
+      }
+    },
+    {
+      "navigationData": [
+        {
+          "id": 1,
+          "label": "Trang chủ",
+          "href": "/"
+        },
+        {
+          "id": 2,
+          "label": "Về chúng tôi",
+          "href": "/about"
+        },
+        {
+          "id": 3,
+          "label": "Thực đơn",
+          "href": "/menu"
+        },
+        {
+          "id": 4,
+          "label": "Tin tức và sự kiện",
+          "href": "/news"
+        }
+      ]
+    },
+    {
+      "carouselData": [
+        {
+          "src": "/images/banner/bannerCoffee.jpg",
+          "alt": "banner coffee",
+          "isActive": true,
+          "title": "CÓ MẶT TRÊN NOW DELIVERY",
+          "text": "Bạn hãy tải app Now Delivery trên App Store hoặc CH play và tìm kiếm coffee shop trên app và có thể thưởng thức những món ngon của quán ở mọi nơi.   "
+        },
+        {
+          "src": "/images/banner/bannerFood.jpg",
+          "alt": "banner food",
+          "isActive": false,
+          "title": "lịch hoạt động mới nhất",
+          "text": "Nghiêm túc thực hiện theo chỉ thị của cơ quan chức năng về công tác phòng chống dịch bệnh Covid-19"
+        },
+        {
+          "src": "/images/banner/bannerCoffee.jpg",
+          "alt": "banner coffee",
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "title": "chào mừng bạn đến với cửa hàng của chúng tôi",
+      "text": "Giữa cuộc sống đầy bộn bề lo toan, bạn vội vã hòa vào dòng người tấp nập, cuốn mình vào công việc bận rộn để rồi bạn chợt nhật ra đã bao lâu rồi bạn chưa dành thời gian cho bản thân nghỉ ngơi, thưởng thức một ly cà phê và lắng nghe âm nhạc, âm thanh của cuộc sống. Đến với cà phê chúng tôi bạn sẽ được hòa mình với thiên nhiên, chìm đắm trong tiếng nhạc du dương, tiếng chim lảnh lót và tiếng nước chảy róc rách.",
+      "comment": "Với mục tiêu Luôn đặt chữ tín lên hàng đầu và hướng tới quan hệ khách hàng dài lâu. Chúng tôi cam kết sẽ mang lại cho bạn những trải nghiệm tuyệt vời khi mua hàng",
+      "images": [
+        {
+          "src": "/images/background/infoUsBg.jpeg",
+          "alt": "bg"
+        },
+        {
+          "src": "/images/about/infoUs.png",
+          "alt": "bg"
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/images/background/bg.jpg",
+        "alt": "bg"
+      }
+    },
+    {
+      "title": "cập nhật mới nhất",
+      "src": "/images/home/coffee.jpg",
+      "alt": "coffee",
+      "items": [
+        {
+          "subTitle": "Chương trình ca nhạc acoustic hằng đêm.",
+          "description": "Từ 7:00pm mỗi ngày sẽ có chương trình ca nhạc acoustic hằng đêm. Chương trình hoàn toàn miễn phí, không tính phí phụ thu.",
+          "src": "/images/home/latestCoffee.png",
+          "alt": "latest 1"
+        },
+        {
+          "subTitle": "Kỷ niệm ngày lễ 30/4 và 1/5",
+          "description": "Từ ngày 27/4 đến ngày 1/5/2021 khách hàng đến mua trực tiếp ở của hàng sẽ nhận được được ưu đãi sau: hóa đơn trên 100K sẽ được tặng một ly sứ  ",
+          "src": "/images/home/latestCake.png",
+          "alt": "latest 2"
+        }
+      ]
+    },
+    {
+      "title": "bạn có muốn tìm cho mình một ly cà phê hoàn hảo không ?",
+      "text": "''Tình yêu cũng giống cà phê vậy, uống nhanh thì dễ say, dễ mệt. Nhưng thưởng thức chầm chậm thì dễ thấm, dễ thăng hoa''",
+      "src": "/images/home/recipe.png",
+      "alt": "recipe",
+      "content": [
+        {
+          "description": "Đã bao giờ bạn tự hỏi, ly cà phê thơm ngát trên tay mình đã trải qua những chặng đường nào?"
+        },
+        {
+          "description": "HÃY CÙNG THAM GIA TRẢI NGHIỆM HÀNH TRÌNH TỪ NÔNG TRẠI ĐẾN LY CÀ PHÊ "
+        }
+      ]
+    },
+    {
+      "image": {
+        "src": "/images/home/bulletproof.png",
+        "alt": "bulletproof"
+      },
+      "title": "Hãy lựa chọn cho mình món đồ mà bạn thích",
+      "quote": "“Cách mà khách hàng luôn nhớ về chúng tôi mỗi khi thức dậy.”",
+
+      "items": [
+        {
+          "text": "Phin inox, phin gốm sứ, phin nhôm mạ màu ion"
+        },
+        {
+          "text": "Bình giữ nhiệt inox nóng / lạnh"
+        },
+        {
+          "text": "Bộ ống hút inox"
+        },
+        {
+          "text": "Ly nhựa 2 lớp, Ly sứ"
+        },
+        {
+          "text": "Túi canva cá tính"
+        }
+      ]
+    },
+    {
+      "footerData": [
+        {
+          "title": "Về chúng tôi",
+          "items": [
+            {
+              "text": "“Dù có phải xới tung trái đất này lên cũng phải làm để tạo ra những tuyệt phẩm cà phê năng lượng ngon nhất”."
+            },
+            {
+              "text": "cofeeshop@gmail.com"
+            },
+            {
+              "text": "+(84)123456789"
+            },
+            {
+              "text": "Đà Nẵng, Việt Nam"
+            }
+          ]
+        },
+        {
+          "title": "Thời gian hoạt động",
+          "items": [
+            {
+              "text": "Thứ hai - thứ năm: 8 giờ sáng - 5 giờ chiều"
+            },
+            {
+              "text": "Thứ bảy - Chủ nhật: 8 giờ sáng - 7 giờ chiều"
+            },
+            {
+              "text": "Ngày lễ: Đóng cửa"
+            }
+          ]
+        },
+        {
+          "title": "Theo dõi chúng tôi",
+          "items": [
+            {
+              "text": "Theo dõi chúng tôi tại Website này và thường xuyên cập nhật những thông tin mới nhất của của hàng bạn nhé !"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+.info {
+  position: relative;
+  text-align: center;
+}
+
+.infoContent {
+  z-index: 1;
+}
+
+.des {
+  padding-top: 90px;
+  padding-bottom: 50px;
+}
+
+.infoImg {
+  padding: 40px 0 40px 0;
+  text-align: left;
+}
+
+.imgBg {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;
+}
+
+@media (max-width: 768px) {
+  .imgBg {
+    opacity: 0;
+  }
+
+  .infoImg {
+    text-align: center;
+    padding: 0;
+  }
+}
+
+@media (max-width: 380px) {
+  .des {
+    padding: 20px 20px;
+  }
+}

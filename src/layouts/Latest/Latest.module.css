@@ -1,0 +1,54 @@
+.latest {
+  padding: 90px 0;
+}
+
+.infoLatest {
+  padding: 0 50px;
+}
+
+.latestTitle {
+  text-align: center;
+}
+
+.latestPost {
+  border-bottom: solid 1px #eee;
+}
+
+.latestContent {
+  margin: 20px 0;
+}
+
+.img {
+  padding: 20px 0;
+}
+
+.line {
+  border-bottom: solid 1px #eee;
+  padding: 0 50px;
+}
+
+@media (max-width: 1200px) {
+  .infoLatest {
+    padding: 0;
+  }
+
+  .line {
+    padding: 0 50px 0 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .img {
+    text-align: center;
+  }
+  .line {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 0;
+  }
+}
+@media (max-width: 580px) {
+  .latestContent {
+    padding: 0 20px;
+  }
+}

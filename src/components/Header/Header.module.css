@@ -1,0 +1,27 @@
+.title {
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+
+.line::before,
+.line::after {
+  content: "";
+  border-top: 2px solid;
+  margin: 0 20px 0 0;
+  flex: 1 0 20px;
+  height: 2px;
+  left: 15%;
+  right: 50%;
+  z-index: 1;
+  background-color: #ccc;
+}
+
+.text {
+  line-height: 26px;
+}
+.comment {
+  margin-top: 15px;
+}

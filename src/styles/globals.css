@@ -1,0 +1,24 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  /* font-family: "PT Sans", sans-serif;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 20px; */
+}
+
+* {
+  box-sizing: border-box;
+}
