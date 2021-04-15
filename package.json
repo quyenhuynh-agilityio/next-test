@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start --port 4000",
+    "start": "next start -p $PORT",
     "server": "json-server --watch src/api/db.json --port 3004"
   },
   "dependencies": {
